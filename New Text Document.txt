@@ -1,0 +1,9 @@
+auto rename tag
+highlight matching Tag
+prettier
+vs
+
+{{ $replies->render("pagination::default") }}
+{{ $replies->render("pagination::bootstrap-4") }}
+{{ $replies->render("pagination::simple-bootstrap-4") }}
+{{ $replies->render("pagination::semantic-ui") }}
